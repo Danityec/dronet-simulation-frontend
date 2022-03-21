@@ -2,6 +2,7 @@ header, section, div {
     display: block;
 }
 canvas{
-    background-image: url("../images/grass.jpeg"); 
-    background-repeat:no-repeat;
+    /* background-image: url("../images/grass.jpeg");  */
+    /* background-repeat:no-repeat; */
+    background-color: darkgrey;
 }
